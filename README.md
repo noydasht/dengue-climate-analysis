@@ -46,7 +46,7 @@ For each country, used the following csv files, Taken from IMF (12 files overall
 
     Represent the use of renewable energy (Electricity Generation by solar energy), counting in Gigawatt-hours (GWh) units.
 
-    **Relevant introduction about the problem:**
+    **introduction about the problem:**
 
     Dengue fever is a programmed tropical disease transmitted by Aedes genus mosquitoes that can be found in tropical regions around the world. The disease is particularly common in tropical and subtropical regions, as well as among travelers. Dengue fever is currently widespread in over 110 countries over the world.   
     Every year around 50 to 528 million people become infected with dengue fever and about 10,000-20,000 die from it.
