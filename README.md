@@ -85,7 +85,7 @@ For each country, used the following csv files, Taken from IMF (12 files overall
 
     **Graphs:**
 
-    ![A graph](72911850d019cd68671d17fd262c5eb2.png)
+    ![AUSTRALIA- Line Chart (Normalized)](https://github.com/noydasht/dengue-climate-analysis/blob/main/plots_results/72911850d019cd68671d17fd262c5eb2.png)
 
     ![A graph of a graph with blue dots Description automatically generated](42ba61a5d2864cbccbe82142dcf44175.png)![A graph of a virus Description automatically generated with medium confidence](e8f2185eef9e4f650e56d847d56a16f2.png)
 
