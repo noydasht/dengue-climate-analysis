@@ -1,6 +1,6 @@
 **The research question:**
 
-\*Measure the Impact of climate change features on dengue fever cases in 3 different areas: states from Asia (Cambodia), south America (Brazil( and Australia.   
+\*Measure the Impact of climate change features on dengue fever cases in 3 different areas: states from Asia (Cambodia), south America (Brazil) and Australia.   
 \*Predict the dengue cases in the future in each state according to the climate change features tendency.
 
 **The data:**
