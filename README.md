@@ -87,21 +87,21 @@ For each country, used the following csv files, Taken from IMF (12 files overall
 
     ![AUSTRALIA- Line Chart (Normalized)](https://github.com/noydasht/dengue-climate-analysis/blob/main/plots_results/72911850d019cd68671d17fd262c5eb2.png)
 
-    ![A graph of a graph with blue dots Description automatically generated](42ba61a5d2864cbccbe82142dcf44175.png)![A graph of a virus Description automatically generated with medium confidence](e8f2185eef9e4f650e56d847d56a16f2.png)
+    ![Australia - co2_essimssion scatter plot](https://github.com/noydasht/dengue-climate-analysis/blob/main/plots_results/42ba61a5d2864cbccbe82142dcf44175.png)![Australia- surface temp change scatter plot](https://github.com/noydasht/dengue-climate-analysis/blob/main/plots_results/e8f2185eef9e4f650e56d847d56a16f2.png)
 
-    ![A graph with blue dots Description automatically generated](3c015b71bc36d8c86ff08c761d307419.png)![A graph with blue dots Description automatically generated](17681df1a5d47a827e87a85493e1fced.png)
+    ![Australia- tree covered areas scatter plot](https://github.com/noydasht/dengue-climate-analysis/blob/main/plots_results/3c015b71bc36d8c86ff08c761d307419.png) ![Australia- solar electricity use scatter plot](https://github.com/noydasht/dengue-climate-analysis/blob/main/plots_results/17681df1a5d47a827e87a85493e1fced.png)
 
-    ![A graph of lines and numbers Description automatically generated](7bfe8905173bd572fb624f9c4ff70747.png)
+    ![BRAZIL- line chart](https://github.com/noydasht/dengue-climate-analysis/blob/main/plots_results/7bfe8905173bd572fb624f9c4ff70747.png)
 
-    ![A graph with blue dots Description automatically generated](dfc06329cc4a973d42baa9e0f75fcab7.png)![A graph with blue dots Description automatically generated](fd91498507c102985152c5050f4a1b4f.png)
+    ![BRAZIL - co2 emissions](https://github.com/noydasht/dengue-climate-analysis/blob/main/plots_results/dfc06329cc4a973d42baa9e0f75fcab7.png) ![BRAZIL- solar electricity use](https://github.com/noydasht/dengue-climate-analysis/blob/main/plots_results/fd91498507c102985152c5050f4a1b4f.png)
 
-    ![A graph of a virus Description automatically generated with medium confidence](8eec2e6af0e6a4c26529553f2380d263.png)![A graph with blue dots Description automatically generated](6721b42e9cf7abf0cb1bf661b87675ff.png)
+    ![BRAZIL - surface temp change](https://github.com/noydasht/dengue-climate-analysis/blob/main/plots_results/8eec2e6af0e6a4c26529553f2380d263.png)![BRAZIL- tree covered areas scatter plot](https://github.com/noydasht/dengue-climate-analysis/blob/main/plots_results/6721b42e9cf7abf0cb1bf661b87675ff.png)
 
-![A graph of different colored lines Description automatically generated](faabb8b5ff4cf76914cf339883688abd.png)
+![CAMBODIA - line chart](https://github.com/noydasht/dengue-climate-analysis/blob/main/plots_results/faabb8b5ff4cf76914cf339883688abd.png)
 
-![A screen shot of a graph Description automatically generated](d38d5c47e92da604ca4f8201b157dea6.png)![A screen shot of a graph Description automatically generated](b089d99f725076cc45e80ddfa9200fcd.png)
+![Cambodia - surface temp change](https://github.com/noydasht/dengue-climate-analysis/blob/main/plots_results/d38d5c47e92da604ca4f8201b157dea6.png)![Cambodia - tree covered areas](https://github.com/noydasht/dengue-climate-analysis/blob/main/plots_results/b089d99f725076cc45e80ddfa9200fcd.png)
 
-![A graph with blue dots Description automatically generated](cbd6d1d177ecc8408b614f78f5edbda1.png)![A graph with blue dots Description automatically generated](6d65da08cd75609b667b483c9305c542.png)
+![Cambodia - co2 emissions](https://github.com/noydasht/dengue-climate-analysis/blob/main/plots_results/cbd6d1d177ecc8408b614f78f5edbda1.png)![Cambodia - solar electricity use](https://github.com/noydasht/dengue-climate-analysis/blob/main/plots_results/6d65da08cd75609b667b483c9305c542.png)
 
 Mantel test + PCA + linear regression:
 
@@ -415,7 +415,7 @@ Mean Squared Error: 1318157042.48
 
 R\^2 Score: -0.07
 
-![A screenshot of a computer error Description automatically generated](6e406e714666ba47227c31b76e9306ba.png)
+![results](https://github.com/noydasht/dengue-climate-analysis/blob/main/plots_results/6e406e714666ba47227c31b76e9306ba.png)
 
 – Discussion/conclusions:
 
